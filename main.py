@@ -1,6 +1,9 @@
 # This is main.py
 
 print("Hello, group #6! Greetings from main.py")
-print("Greetings from the Rachel branch")
 
-a = 757
+print("Greetings from the Rachel branch")
+print("Hello from the steph branch.")
+print("Greetings from the brando branch")
+
+a = 31
