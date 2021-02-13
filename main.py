@@ -2,4 +2,7 @@
 
 print("Hello, group #6! Greetings from main.py")
 print("Hello from the steph branch.")
-a = 34
+print("Greetings from the brando branch")
+
+a = 31
+
