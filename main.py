@@ -3,4 +3,12 @@
 print("Hello, group #6! Greetings from main.py")
 print("Greetings from the Luis branch!")
 
-a = 29
+
+print("Greetings from the Rachel branch")
+print("Hello from the steph branch.")
+print("Greetings from the brando branch")
+
+print("1st commit")
+
+a = 31
+
